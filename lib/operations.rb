@@ -1,4 +1,5 @@
-def unsafe!
+def unsafe?
+end
 	
 
 
