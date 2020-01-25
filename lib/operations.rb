@@ -1,7 +1,8 @@
 def unsafe?
 end
 
-def not_safe
+def not_safe?
+end
 	
 
 
