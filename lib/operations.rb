@@ -6,6 +6,7 @@ def unsafe?
   else
     FALSE
 end
+end
 
 def not_safe?
   if speed
